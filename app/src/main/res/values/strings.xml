@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">你能秒我？</string>
+    <string name="main_edit_btn">记一笔...</string>
+    <string name="main_top_tittle">本月支出</string>
+    <string name="main_top_details1">本月支出</string>
+    <string name="main_top_details2">预算剩余</string>
+    <string name="main_top_btn">查看图标分析</string>
+    <string name="main_top_details3">今日支出</string>
+    <string name="main_top_details4">收入</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
